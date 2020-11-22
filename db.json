@@ -1,1 +1,8 @@
-{"Posts":{"AvailableCards":[1234,1211]}}
+{
+  "PostCall": {
+    "AvailableCards": [
+      1234,
+      1211
+    ]
+  }
+}
