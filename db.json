@@ -1,13 +1,13 @@
 {
   "api": {
-    "cards":{
+    "cards": {
       "AvailableCards": [
         1234,
         1211
       ]
     },
-    "pincode":{
-      "Available":0
+    "pincode": {
+      "Available": 0
     }
-    
   }
+}
