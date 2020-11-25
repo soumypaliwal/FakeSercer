@@ -1,11 +1,13 @@
 {
-  "PostCall": {
-    "AvailableCards": [
-      1234,
-      1211
-    ]
-  },
-  "UniquePin": {
-    "Available": 0
+  "api": {
+    "cards":{
+      "AvailableCards": [
+        1234,
+        1211
+      ]
+    },
+    "pincode":{
+      "Available":0
+    }
+    
   }
-}
